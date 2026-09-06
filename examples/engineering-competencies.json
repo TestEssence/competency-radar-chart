@@ -1,0 +1,140 @@
+{
+  "title": "Platform engineering competencies",
+  "subtitle": "Team calibration - Q3",
+  "orientation": "portrait",
+
+  "levels": [
+    { "name": "Novice", "description": "aware of it" },
+    { "name": "Beginner", "description": "can do it with help" },
+    { "name": "Competent", "description": "works independently" },
+    { "name": "Proficient", "description": "improves the work of others" },
+    { "name": "Expert", "description": "sets direction across teams" }
+  ],
+
+  "categories": [
+    { "name": "Engineering craft", "color": "#4f86c6" },
+    { "name": "Systems & operations", "color": "#5f9e93" },
+    { "name": "Product & domain", "color": "#d1793f" },
+    { "name": "Collaboration", "color": "#7a6ea8" }
+  ],
+
+  "skills": {
+    "Engineering craft": [
+      "Programming",
+      "Code review",
+      "Automated testing",
+      "Refactoring",
+      "Debugging"
+    ],
+    "Systems & operations": [
+      "Distributed systems",
+      "Observability",
+      "CI/CD",
+      "Security",
+      "Cost awareness"
+    ],
+    "Product & domain": [
+      "Domain modelling",
+      "Requirements",
+      "Data literacy"
+    ],
+    "Collaboration": [
+      "Written communication",
+      "Mentoring",
+      "Facilitation",
+      "Stakeholder management"
+    ]
+  },
+
+  "colorScheme": {
+    "background": "#16181c",
+    "chartBackground": "#22252b",
+    "textColor": "#e9e7e3",
+    "ringColor": "#454a54",
+    "outerRingColor": "#767c88",
+    "spokeColor": "#33373f",
+    "centerDotColor": "#767c88",
+    "levelLabelColor": "#e9e7e3",
+    "legendBackground": "#22252b",
+    "legendBorder": "#767c88",
+    "profileFillOpacity": 0.12,
+    "wedgeOpacity": 0.5
+  },
+
+  "layout": {
+    "showPoints": true
+  },
+
+  "profiles": [
+    {
+      "name": "Senior engineer (current)",
+      "color": "#4ade80",
+      "values": {
+        "Programming": 4,
+        "Code review": 4,
+        "Automated testing": 3,
+        "Refactoring": 4,
+        "Debugging": 4,
+        "Distributed systems": 3,
+        "Observability": 2.5,
+        "CI/CD": 3,
+        "Security": 2,
+        "Cost awareness": 2,
+        "Domain modelling": 3,
+        "Requirements": 2.5,
+        "Data literacy": 2,
+        "Written communication": 3,
+        "Mentoring": 3,
+        "Facilitation": 2,
+        "Stakeholder management": 2
+      }
+    },
+    {
+      "name": "Staff engineer (target)",
+      "color": "#f97362",
+      "values": {
+        "Programming": 4,
+        "Code review": 4.5,
+        "Automated testing": 4,
+        "Refactoring": 4,
+        "Debugging": 4,
+        "Distributed systems": 4.5,
+        "Observability": 4,
+        "CI/CD": 4,
+        "Security": 3.5,
+        "Cost awareness": 3.5,
+        "Domain modelling": 4,
+        "Requirements": 4,
+        "Data literacy": 3.5,
+        "Written communication": 5,
+        "Mentoring": 4.5,
+        "Facilitation": 4,
+        "Stakeholder management": 4
+      }
+    },
+    {
+      "name": "Team average",
+      "color": "#facc15",
+      "strokeDasharray": "10 8",
+      "values": {
+        "Programming": 3.2,
+        "Code review": 3,
+        "Automated testing": 2.4,
+        "Refactoring": 2.8,
+        "Debugging": 3.1,
+        "Distributed systems": 2.2,
+        "Observability": 1.8,
+        "CI/CD": 2.6,
+        "Security": 1.6,
+        "Cost awareness": 1.4,
+        "Domain modelling": 2.4,
+        "Requirements": 2.2,
+        "Data literacy": 1.8,
+        "Written communication": 2.6,
+        "Mentoring": 2.2,
+        "Facilitation": 1.8,
+        "Stakeholder management": 1.6
+      }
+    }
+  ]
+}

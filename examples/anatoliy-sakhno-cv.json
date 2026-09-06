@@ -1,0 +1,93 @@
+{
+  "title": "Anatoliy Sakhno - competency profile",
+  "subtitle": "Test Architect / Consultant Quality Assurance Engineer - 25+ years in IT, medical device software",
+  "orientation": "landscape",
+
+  "levels": [
+    { "name": "Basic", "description": "knows about" },
+    { "name": "Advanced", "description": "can apply" },
+    { "name": "Expert", "description": "drives, coaches and is able to improve in own domain & scope" }
+  ],
+
+  "categories": [
+    { "name": "Requirements engineering", "color": "#b9bcbd" },
+    { "name": "Architecture and development", "color": "#5f9e93" },
+    { "name": "Social skills & leadership", "color": "#e6b73f" },
+    { "name": "Testing and quality", "color": "#b23a3a" },
+    { "name": "Business understanding", "color": "#c9a86a" }
+  ],
+
+  "skills": {
+    "Requirements engineering": [
+      "Standards, regulations, legal issues",
+      "Lifecycle issues",
+      "Domain knowledge",
+      "Product & system requirements",
+      "Quality requirements"
+    ],
+    "Architecture and development": [
+      "Architecture & design",
+      "Architecture quality",
+      "Integration & deployment"
+    ],
+    "Social skills & leadership": [
+      "Project management",
+      "Social skills",
+      "Leadership"
+    ],
+    "Testing and quality": [
+      "Testing governance & guidance",
+      "Test process improvement",
+      "Lean & agile testing",
+      "Test methods & technologies",
+      "Design for testability",
+      "Test architecture",
+      "Test strategy",
+      "Test automation",
+      "Test & quality management"
+    ],
+    "Business understanding": [
+      "Development processes",
+      "Global development",
+      "Ecosystems, partnering, suppliers",
+      "Business model understanding"
+    ]
+  },
+
+  "profiles": [
+    {
+      "name": "Anatoliy Sakhno",
+      "color": "#1f6fd0",
+      "values": {
+        "Standards, regulations, legal issues": 3,
+        "Lifecycle issues": 3,
+        "Domain knowledge": 3,
+        "Product & system requirements": 3,
+        "Quality requirements": 2.5,
+
+        "Architecture & design": 2.5,
+        "Architecture quality": 2,
+        "Integration & deployment": 2.5,
+
+        "Project management": 2,
+        "Social skills": 2.5,
+        "Leadership": 2.5,
+
+        "Testing governance & guidance": 3,
+        "Test process improvement": 3,
+        "Lean & agile testing": 2,
+        "Test methods & technologies": 3,
+        "Design for testability": 2.5,
+        "Test architecture": 3,
+        "Test strategy": 3,
+        "Test automation": 3,
+        "Test & quality management": 2.5,
+
+        "Development processes": 3,
+        "Global development": 2.5,
+        "Ecosystems, partnering, suppliers": 2,
+        "Business model understanding": 2
+      }
+    }
+  ]
+}

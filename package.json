@@ -1,0 +1,51 @@
+{
+  "name": "competency-radar-chart",
+  "version": "1.0.0",
+  "description": "Configurable competency / skills radar chart renderer (SVG, PNG, HTML) with category bands, level rings and multiple profiles",
+  "keywords": [
+    "radar",
+    "chart",
+    "spider",
+    "skills",
+    "competency",
+    "competency-matrix",
+    "radar-chart",
+    "dataviz",
+    "svg"
+  ],
+  "license": "MIT",
+  "author": "Anatoliy Sakhno",
+  "homepage": "https://github.com/TestEssence/competency-radar-chart#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TestEssence/competency-radar-chart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TestEssence/competency-radar-chart/issues"
+  },
+  "main": "src/index.js",
+  "bin": {
+    "competency-radar": "bin/cli.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "examples/test-roles.json",
+    "examples/engineering-competencies.json",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "render": "node bin/cli.js",
+    "examples": "node scripts/build-examples.js",
+    "test": "node test/run.js",
+    "prepublishOnly": "node test/run.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "optionalDependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

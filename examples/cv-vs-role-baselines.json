@@ -1,0 +1,177 @@
+{
+  "title": "Competency profile vs. role baselines",
+  "subtitle": "Anatoliy Sakhno - Test Architect / Consultant QA, against the Test Architect and Test Manager reference profiles",
+  "orientation": "landscape",
+  "levels": [
+    {
+      "name": "Basic",
+      "description": "knows about"
+    },
+    {
+      "name": "Advanced",
+      "description": "can apply"
+    },
+    {
+      "name": "Expert",
+      "description": "drives, coaches and is able to improve in own domain & scope"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Requirements engineering",
+      "color": "#b9bcbd"
+    },
+    {
+      "name": "Architecture and development",
+      "color": "#5f9e93"
+    },
+    {
+      "name": "Social skills & leadership",
+      "color": "#e6b73f"
+    },
+    {
+      "name": "Testing and quality",
+      "color": "#b23a3a"
+    },
+    {
+      "name": "Business understanding",
+      "color": "#c9a86a"
+    }
+  ],
+  "skills": {
+    "Requirements engineering": [
+      "Standards, regulations, legal issues",
+      "Lifecycle issues",
+      "Domain knowledge",
+      "Product & system requirements",
+      "Quality requirements"
+    ],
+    "Architecture and development": [
+      "Architecture & design",
+      "Architecture quality",
+      "Integration & deployment"
+    ],
+    "Social skills & leadership": [
+      "Project management",
+      "Social skills",
+      "Leadership"
+    ],
+    "Testing and quality": [
+      "Testing governance & guidance",
+      "Test process improvement",
+      "Lean & agile testing",
+      "Test methods & technologies",
+      "Design for testability",
+      "Test architecture",
+      "Test strategy",
+      "Test automation",
+      "Test & quality management"
+    ],
+    "Business understanding": [
+      "Development processes",
+      "Global development",
+      "Ecosystems, partnering, suppliers",
+      "Business model understanding"
+    ]
+  },
+  "profiles": [
+    {
+      "name": "Anatoliy Sakhno",
+      "color": "#1f6fd0",
+      "values": {
+        "Standards, regulations, legal issues": 3,
+        "Lifecycle issues": 3,
+        "Domain knowledge": 3,
+        "Product & system requirements": 3,
+        "Quality requirements": 2.5,
+        "Architecture & design": 2.5,
+        "Architecture quality": 2,
+        "Integration & deployment": 2.5,
+        "Project management": 2,
+        "Social skills": 2.5,
+        "Leadership": 2.5,
+        "Testing governance & guidance": 3,
+        "Test process improvement": 3,
+        "Lean & agile testing": 2,
+        "Test methods & technologies": 3,
+        "Design for testability": 2.5,
+        "Test architecture": 3,
+        "Test strategy": 3,
+        "Test automation": 3,
+        "Test & quality management": 2.5,
+        "Development processes": 3,
+        "Global development": 2.5,
+        "Ecosystems, partnering, suppliers": 2,
+        "Business model understanding": 2
+      },
+      "strokeWidth": 5,
+      "fillOpacity": 0.18
+    },
+    {
+      "name": "Test Architect",
+      "color": "#1f9c2e",
+      "values": {
+        "Standards, regulations, legal issues": 2,
+        "Lifecycle issues": 2,
+        "Domain knowledge": 2,
+        "Product & system requirements": 2.5,
+        "Quality requirements": 2.5,
+        "Architecture & design": 2.5,
+        "Architecture quality": 2.5,
+        "Integration & deployment": 2,
+        "Project management": 1.5,
+        "Social skills": 2,
+        "Leadership": 1.5,
+        "Testing governance & guidance": 3,
+        "Test process improvement": 2,
+        "Lean & agile testing": 2,
+        "Test methods & technologies": 2.5,
+        "Design for testability": 2.5,
+        "Test architecture": 3,
+        "Test strategy": 2.5,
+        "Test automation": 2.5,
+        "Test & quality management": 2,
+        "Development processes": 2,
+        "Global development": 1.5,
+        "Ecosystems, partnering, suppliers": 1.5,
+        "Business model understanding": 1.5
+      },
+      "strokeWidth": 3,
+      "fillOpacity": 0,
+      "strokeDasharray": "14 9"
+    },
+    {
+      "name": "Test Manager",
+      "color": "#e8231a",
+      "values": {
+        "Standards, regulations, legal issues": 2.5,
+        "Lifecycle issues": 2.5,
+        "Domain knowledge": 2,
+        "Product & system requirements": 1.5,
+        "Quality requirements": 1.5,
+        "Architecture & design": 1,
+        "Architecture quality": 1,
+        "Integration & deployment": 1.5,
+        "Project management": 2,
+        "Social skills": 2.5,
+        "Leadership": 2.5,
+        "Testing governance & guidance": 3,
+        "Test process improvement": 2.5,
+        "Lean & agile testing": 2,
+        "Test methods & technologies": 1.5,
+        "Design for testability": 1,
+        "Test architecture": 1.5,
+        "Test strategy": 3,
+        "Test automation": 1.5,
+        "Test & quality management": 3,
+        "Development processes": 2.5,
+        "Global development": 2.5,
+        "Ecosystems, partnering, suppliers": 2,
+        "Business model understanding": 2.5
+      },
+      "strokeWidth": 3,
+      "fillOpacity": 0,
+      "strokeDasharray": "4 7"
+    }
+  ]
+}
